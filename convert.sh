@@ -1,4 +1,4 @@
-#SCript para converter imagens .jpg em .png
+#SCript para converter imagens em formato .jpg para.png
 
 #!/bin/bash
 
@@ -13,7 +13,7 @@ do
         convert $imagem $img_sem_ext.png
 done
 
-echo fint
+echo "finalizando"
 
 cd ..
 
