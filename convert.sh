@@ -13,6 +13,9 @@ do
         convert $imagem $img_sem_ext.png
 done
 
+echo fint
+
 cd ..
+
 
 #Guilherme Mendes
