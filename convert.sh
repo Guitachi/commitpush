@@ -1,4 +1,6 @@
-#SCript para converter imagens em formato .jpg para.png
+#Script para converter imagens em formato .jpg para .png
+
+#Autor: Guilherme Mendes
 
 #!/bin/bash
 
@@ -18,4 +20,3 @@ echo "finalizando"
 cd ..
 
 
-#Guilherme Mendes
