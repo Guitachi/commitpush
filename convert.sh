@@ -2,6 +2,8 @@
 
 #!/bin/bash
 
+echo "inicializando"
+
 cd imagens-livros
 
 for imagem in *.jpg
