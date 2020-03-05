@@ -1,3 +1,5 @@
+#SCript para converter imagens .jpg em .png
+
 #!/bin/bash
 
 cd imagens-livros
@@ -11,3 +13,4 @@ done
 
 cd ..
 
+#Guilherme Mendes
